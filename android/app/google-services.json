@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130625903398",
+    "firebase_url": "https://kayuu-18548.firebaseio.com",
+    "project_id": "kayuu-18548",
+    "storage_bucket": "kayuu-18548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130625903398:android:ffa96018c8b4161d16ffe7",
+        "android_client_info": {
+          "package_name": "com.gleamStudios.commuter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130625903398-ulni99gu7m192hjjm4m3r1mi0e0v18of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZnYOLyuWc-E0HR-Ep2GEZz4HQ_IW3mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130625903398-ulni99gu7m192hjjm4m3r1mi0e0v18of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
